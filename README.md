@@ -1,2 +1,2 @@
 # web_scraping
-Para descargar imágenes cuando el volumen es muy alto
+Descarga imágenes cuando el volumen es muy alto
