@@ -16,5 +16,8 @@ def run():
         urllib.request.urlretrieve('https:{}'.format(image_url), image_name)
 
 
+
+
+
 if __name__ == '__main__':
     run()
